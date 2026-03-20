@@ -48,7 +48,7 @@ Aplicação web com manipulação de DOM, eventos e organização de código.
 
 ## 💻 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guga-Nascimento&bg_color=363636&border_color=FFD700&title_color=FFD700&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-Nascimento&bg_color=363636&border_color=FFD700&title_color=FFD700&text_color=FFF)
 
 ---
 
